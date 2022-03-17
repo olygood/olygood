@@ -4,7 +4,8 @@
 > Comment je sais tout ça ?  
 > Je viens d'en sortir =======>>>  
 <p align="left">
-  je sui a gauche
+  je sui a gauche  
+  et oui a gauche  
   </p>
   
   <p align="right"> 
