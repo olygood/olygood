@@ -1,5 +1,6 @@
 ### Hi there 👋
 <img src="https://github.com/olygood/imagesWeb/blob/master/backgroud/b2.jpg?raw=true" width="250px" alt="the wall" />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 
 <!--
 **olygood/olygood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
