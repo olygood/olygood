@@ -3,7 +3,7 @@
 
 
   <img src="https://giphy.com/gifs/technoir-movie-film-cinemagraph-zXmbOaTpbY6mA" />
-https://media.giphy.com/media/zXmbOaTpbY6mA/giphy.gif
+<img src="https://media.giphy.com/media/zXmbOaTpbY6mA/giphy.gif" /> 
 
 <!--
 **olygood/olygood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
