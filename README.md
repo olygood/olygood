@@ -7,8 +7,7 @@
 <p align="right"> 
     <img src="https://media.giphy.com/media/zXmbOaTpbY6mA/giphy.gif" /> 
   </p>
-  
-  
+ # Thanks
 
 
 
