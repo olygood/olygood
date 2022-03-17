@@ -3,11 +3,13 @@
 
 > Comment je sais tout ça ?  
 > Je viens d'en sortir =======>>>  
-<p align="right">
+<p align="left">
+  # voici mon titre
+  <p align="right"> 
+    <img src="https://media.giphy.com/media/zXmbOaTpbY6mA/giphy.gif" /> 
+  </p>
   
-  <img src="https://media.giphy.com/media/zXmbOaTpbY6mA/giphy.gif" /> 
-  jkdlsjcfdslmsklcvkjsdlmkssklmdkdslmjksl
-  ksdlmfskfclmsdklmfkcsdlmkfclmk
+  
 </p>
 
 
