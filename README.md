@@ -4,6 +4,8 @@
 > Comment je sais tout ça ?  
 > Je viens d'en sortir =======>>>  
 <p align="right">
+  jdsfkldnkld
+  kdslm.lmvcsdlvm
   <img src="https://media.giphy.com/media/zXmbOaTpbY6mA/giphy.gif" /> 
 </p>
 
