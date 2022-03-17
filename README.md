@@ -4,18 +4,15 @@
 > Comment je sais tout ça ?  
 > Je viens d'en sortir =======>>>  
 <p align="left">
-fkldjldjklj
-  kfldskflsdmk
-vdlfmvd
-  dkljdksljfdskfds   
-  
+  je sui a gauche
+  </p>
   
   <p align="right"> 
     <img src="https://media.giphy.com/media/zXmbOaTpbY6mA/giphy.gif" /> 
   </p>
   
   
-</p>
+
 
 
 <!--
