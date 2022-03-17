@@ -1,6 +1,5 @@
 ### Hi there 👋
-![the wall](https://github.com/olygood/imagesWeb/blob/master/backgroud/b2.jpg?raw=true)  
-<img src="https://github.com/olygood/imagesWeb/blob/master/backgroud/b2.jpg?raw=true" alt="the wall" />  
+<img src="https://github.com/olygood/imagesWeb/blob/master/backgroud/b2.jpg?raw=true" width="25px" alt="the wall" />  
 
 <!--
 **olygood/olygood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
