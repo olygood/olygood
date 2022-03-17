@@ -7,10 +7,16 @@
 <p align="right"> 
     <img src="https://media.giphy.com/media/zXmbOaTpbY6mA/giphy.gif" /> 
   </p>
- # Thanks
-merci pour cette  
-et je djksljsk  
-kdjsdskljks  
+## SOUS-TITRE
+
+<div class="pull-right"> 
+<center>
+<img src="https://www.mon-hébergeur.fr/chemin/vers/mon/image.png"/>
+<a href="LIEN VERS LA SOURCE">SOURCE DE L'IMAGE</a>
+</center>
+</div>
+
+VOTRE TEXTE ICI
 
 
 <!--
