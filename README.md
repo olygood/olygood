@@ -1,5 +1,10 @@
 # Olygood
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40px" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="40px" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="40px" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-plain.svg" width="40px" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original-wordmark.svg" width="80px" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40px" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="60px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40px" /> &nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="40px" /> &nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40px" /> &nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="60px" /> &nbsp;&nbsp;
+<img src="https://img.icons8.com/?size=100&id=MWiBjkuHeMVq&format=png&color=000000" width="40px"/>                                                                                                                                                                                                                                                                                                                                                                                                                                                 
 
 > Comment je sais tout ça ?  
 > Je viens d'en sortir =======>>>  
@@ -7,16 +12,7 @@
 <p align="right"> 
     <img src="https://media.giphy.com/media/zXmbOaTpbY6mA/giphy.gif" /> 
   </p>
-## SOUS-TITRE
 
-<div class="pull-right"> 
-<center>
-<img src="https://www.mon-hébergeur.fr/chemin/vers/mon/image.png"/>
-<a href="LIEN VERS LA SOURCE">SOURCE DE L'IMAGE</a>
-</center>
-</div>
-
-VOTRE TEXTE ICI
 
 
 <!--
