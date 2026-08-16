@@ -7,7 +7,7 @@
 <img src="https://img.icons8.com/?size=100&id=MWiBjkuHeMVq&format=png&color=000000" width="40px"/>                                                                                                                                                                                                                                                                                                                                                                                                                                                 
 
 > Comment je sais tout ça ?  
-> Je viens d'en sortir =============================>>>  
+> Je viens d'en sortir ===================>>>  
 
 <p align="right"> 
   <img src="https://media.giphy.com/media/zXmbOaTpbY6mA/giphy.gif" /> 
